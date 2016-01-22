@@ -58,10 +58,10 @@
 			<string>comment</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#999999</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -93,10 +93,10 @@
 			<string>constant.character</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#95E454</string>
+				<key>fontStyle</key>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -106,8 +106,6 @@
 			<string>string</string>
 			<key>settings</key>
 			<dict>
-				<key>fontStyle</key>
-				<string>italic</string>
 				<key>foreground</key>
 				<string>#C7D485</string>
 			</dict>
@@ -164,7 +162,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#44BCFC</string>
+				<string>#3BB4F5</string>
 			</dict>
 		</dict>
 		<dict>
@@ -175,9 +173,16 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#44BCFC</string>
+				<string>#D5F505</string>
 			</dict>
 		</dict>
+        
+        
+        
+        
+        
+        
+        
 		<dict>
 			<key>name</key>
 			<string>Module Keyword</string>
@@ -188,7 +193,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#8AC6F2</string>
+				<string>#F2B888</string>
 			</dict>
 		</dict>
 		<dict>
@@ -200,6 +205,7 @@
 			<dict>
 				<key>foreground</key>
 				<string>#44BCFC</string>
+
 			</dict>
 		</dict>
 		<dict>
@@ -279,6 +285,9 @@
 				<string>#CAE682</string>
 			</dict>
 		</dict>
+        
+        
+        
 		<dict>
 			<key>name</key>
 			<string>Function name</string>
@@ -324,7 +333,7 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>italic</string>
+				<string> italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -437,7 +446,17 @@
 				<string>#82E699</string>
 			</dict>
 		</dict>
-		<dict>
+		
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <dict>
 			<key>name</key>
 			<string>Library variable</string>
 			<key>scope</key>
@@ -459,23 +478,12 @@
 				<string>#E62424</string>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>JS: Function Name</string>
-			<key>scope</key>
-			<string>meta.function.js, entity.name.function.js, support.function.dom.js</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#82CFFF</string>
-			</dict>
-		</dict>
-		<dict>
+        
+        	<dict>
 			<key>name</key>
 			<string>JS: Source</string>
 			<key>scope</key>
-			<string>text.html.basic, source.js.embedded.html,
-source.js</string>
+			<string>text.html.basic, source.js.embedded.html</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
@@ -484,6 +492,114 @@ source.js</string>
 				<string>#90A891</string>
 			</dict>
 		</dict>
+        
+        
+        
+        <dict>
+			<key>name</key>
+			<string>JS: Function</string>
+			<key>scope</key>
+			<string>js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B03AFF</string>
+			</dict>
+		</dict>
+  
+   <dict>
+			<key>name</key>
+			<string>JS: Function</string>
+			<key>scope</key>
+			<string>meta</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#82CFFf</string>
+			</dict>
+		</dict>
+        
+        
+        
+     
+        
+           
+        <dict>
+			<key>name</key>
+			<string>JS: Function string</string>
+			<key>scope</key>
+			<string>meta.string</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C7D485</string>
+			</dict>
+		</dict>
+        
+        
+        
+      
+        
+        
+        <dict>
+			<key>name</key>
+			<string>JS: Function</string>
+			<key>scope</key>
+			<string>name.parameter.type.variable.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#40BFBB</string>
+			</dict>
+		</dict>
+        
+        
+        <dict>
+			<key>name</key>
+			<string>JS: Function</string>
+			<key>scope</key>
+			<string>meta.storage.type.var.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B03AFF</string>
+			</dict>
+		</dict>
+        
+        
+        
+        <dict>
+			<key>name</key>
+			<string>JS: Function</string>
+			<key>scope</key>
+			<string>meta.operator.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#ffffff</string>
+			</dict>
+		</dict>
+     
+     
+        
+        
+        <dict>
+			<key>name</key>
+			<string>JS: Function</string>
+			<key>scope</key>
+			<string>token.block.constant.decl.function.language.meta.this.js</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#B03AFF</string>
+			</dict>
+		</dict>
+        
+     
+        
+
+        
+	
 		<dict>
 			<key>name</key>
 			<string>JS: Function</string>
@@ -568,39 +684,29 @@ source.js</string>
 				<string>#A6E22E</string>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>JS: Variable</string>
-			<key>scope</key>
-			<string>variable.other.readwrite.js</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#FFBB00</string>
-			</dict>
-		</dict>
-		<dict>
+
+		
+		
+
+<dict>
 			<key>name</key>
 			<string>JS: Variable function</string>
 			<key>scope</key>
-			<string>variable.function.js</string>
+			<string>comment</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#9A0FF7</string>
+				<string>#999999</string>
 			</dict>
 		</dict>
-		<dict>
-			<key>name</key>
-			<string>JS: Function Call</string>
-			<key>scope</key>
-			<string>variable.function-call.with-arguments.js, variable.function.js</string>
-			<key>settings</key>
-			<dict>
-				<key>foreground</key>
-				<string>#9E1BF5</string>
-			</dict>
-		</dict>
+
+
+
+
+
+
+
+
 	</array>
 	<key>uuid</key>
 	<string>5498E367-2B43-4A31-9746-7CE8B09D4929</string>
