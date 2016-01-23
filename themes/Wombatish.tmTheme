@@ -484,7 +484,7 @@
 			<key>name</key>
 			<string>Sass variable</string>
 			<key>scope</key>
-			<string>variable.decl.sass</string>
+			<string>variable.decl.sass , variable.ref.sass</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
