@@ -406,7 +406,7 @@
 			<key>name</key>
 			<string>Tag attribute</string>
 			<key>scope</key>
-			<string>entity.other.attribute-name</string>
+			<string>entity.other.attribute-name, entity.name.selector.sass</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -428,7 +428,7 @@
 			<key>name</key>
 			<string>Library constant</string>
 			<key>scope</key>
-			<string>support.constant</string>
+			<string>support.constant, support.property-value.sass</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
@@ -444,6 +444,51 @@
 			<dict>
 				<key>foreground</key>
 				<string>#82E699</string>
+			</dict>
+		</dict>
+		
+        
+        
+        
+        <dict>
+			<key>name</key>
+			<string>Sass AT rule</string>
+			<key>scope</key>
+			<string>control.at-rule.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C77FF7</string>
+			</dict>
+		</dict>
+        
+        
+        
+         <dict>
+			<key>name</key>
+			<string>Sass function name</string>
+			<key>scope</key>
+			<string>function.name.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#BBFF76</string>
+			</dict>
+		</dict>
+		
+		
+        
+        
+                
+        <dict>
+			<key>name</key>
+			<string>Sass variable</string>
+			<key>scope</key>
+			<string>variable.decl.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#44BCFC</string>
 			</dict>
 		</dict>
 		
