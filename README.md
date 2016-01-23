@@ -9,6 +9,8 @@
 
 2) Select the Theme in editor ```File > Preferences > Color Theme```
 
+Screenshots coming soon.
+
 
 
 

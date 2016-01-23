@@ -1,17 +1,17 @@
 {
 	"__metadata": {
-		"galleryApiUrl": "https://marketplace.visualstudio.com/_apis/public/gallery",
-		"id": "cc01cbc9-6317-4ac0-bfd7-30fa1b3d42bf",
-		"downloadUrl": "https://gerane.gallery.vsassets.io/_apis/public/gallery/publisher/gerane/extension/Theme-Wombat/0.0.1/assetbyname/Microsoft.VisualStudio.Services.VSIXPackage?install=true",
-		"publisherId": "a5c25faf-bf60-4941-81b9-9a852b96c5fb",
-		"publisherDisplayName": "gerane",
-		"date": "2015-11-22T08:20:16.2Z"
+		"galleryApiUrl": "",
+		"id": "",
+		"downloadUrl": "",
+		"publisherId": "",
+		"publisherDisplayName": "",
+		"date": ""
 	},
 	"name": "Theme-Wombatish",
 	"displayName": "Wombatish Theme",
 	"description": "Wombatish Theme ported from the Wombat TextMate Theme",
-	"version": "0.0.2",
-	"publisher": "gerane",
+	"version": "0.0.3",
+	"publisher": "",
 	"engines": {
 		"vscode": "^0.10.1"
 	},
