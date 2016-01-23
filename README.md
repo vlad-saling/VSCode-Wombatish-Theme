@@ -1,5 +1,7 @@
 # VSCode Wombatish Theme
 
+Theme is optimized for HTML, JS, CSS and SCSS.  
+
 **Installation**
 
 1) Clone to your extensions folder
@@ -9,8 +11,6 @@
 
 2) Select the Theme in editor ```File > Preferences > Color Theme```
 
-Screenshots coming soon.
-
-
+[Screenshots](https://drive.google.com/folderview?id=0B18MKHmc3zscZ3ZTVEFEckxpTkE&usp=sharing)
 
 
