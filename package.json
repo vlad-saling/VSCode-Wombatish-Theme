@@ -3,15 +3,15 @@
 		"galleryApiUrl": "",
 		"id": "",
 		"downloadUrl": "",
-		"publisherId": "",
-		"publisherDisplayName": "",
-		"date": ""
+		"publisherId": "vladsaling",
+		"publisherDisplayName": "Vlad Saling",
+		"date": "24.1.2016"
 	},
 	"name": "Theme-Wombatish",
 	"displayName": "Wombatish Theme",
 	"description": "Wombatish Theme ported from the Wombat TextMate Theme",
 	"version": "0.0.3",
-	"publisher": "",
+	"publisher": "vladsaling",
 	"engines": {
 		"vscode": "^0.10.1"
 	},
