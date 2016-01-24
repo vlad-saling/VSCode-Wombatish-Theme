@@ -1,22 +1,80 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 19.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 120 120" style="enable-background:new 0 0 120 120;" xml:space="preserve">
-<style type="text/css">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 120 120"
+   style="enable-background:new 0 0 120 120;"
+   xml:space="preserve"
+   inkscape:version="0.91 r"
+   sodipodi:docname="icon.svg"><metadata
+     id="metadata23"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs21" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1436"
+     inkscape:window-height="922"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="1.9666667"
+     inkscape:cx="-81.864407"
+     inkscape:cy="60.000001"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" /><style
+     type="text/css"
+     id="style3">
 	.st0{fill:#414042;}
 	.st1{fill:#769CD2;}
 	.st2{fill:#26B8B0;}
 	.st3{fill:#9C82BC;}
 	.st4{fill:#676767;}
-</style>
-<circle class="st0" cx="60" cy="60" r="60"/>
-<g>
-	<path d="M80.7,100.1c-6.2,3.3-13.2,5.1-20.7,5.1C35.2,105.2,15.2,85,15.2,60S35.2,14.8,60,14.8S104.8,35,104.8,60
-		c0,2.9-0.3,5.8-0.8,8.5c-2.4,10.2-9,8.6-9,8.6s-9-4.3-15.7,0.9C75,81.3,78,92.5,80.7,100.1z M69.1,88.4c0-3.2-2.6-5.8-5.8-5.8
-		s-5.8,2.6-5.8,5.8c0,3.2,2.6,5.8,5.8,5.8S69.1,91.6,69.1,88.4z"/>
-	<circle class="st1" cx="39.1" cy="74" r="10.7"/>
-	<circle class="st2" cx="35.6" cy="46.8" r="10.7"/>
-	<circle class="st3" cx="60" cy="32.2" r="10.7"/>
-	<circle class="st4" cx="84.5" cy="45.8" r="10.7"/>
-</g>
+</style><circle
+     class="st0"
+     cx="60"
+     cy="60"
+     r="60"
+     id="circle5"
+     style="fill:#66cb00;fill-opacity:1" /><text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:70px;line-height:125.99999905%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="-2.2033901"
+     y="82.915253"
+     id="text3351"
+     sodipodi:linespacing="126%"><tspan
+       sodipodi:role="line"
+       id="tspan3353"
+       x="-2.2033901"
+       y="82.915253"
+       style="font-size:70px">{ }</tspan></text>
+<text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:77.5px;line-height:125%;font-family:monospace;-inkscape-font-specification:monospace;letter-spacing:0px;word-spacing:0px;fill:#0861f7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="38.135593"
+     y="90.508476"
+     id="text4136"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan4138"
+       x="38.135593"
+       y="90.508476">W</tspan></text>
 </svg>
