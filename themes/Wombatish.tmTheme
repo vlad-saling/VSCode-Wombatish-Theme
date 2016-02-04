@@ -514,7 +514,17 @@
         
         
         
-        
+         <dict>
+			<key>name</key>
+			<string>Sass variable</string>
+			<key>scope</key>
+			<string>literal.sass</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#FF5219</string>
+			</dict>
+		</dict>
         
         
         
