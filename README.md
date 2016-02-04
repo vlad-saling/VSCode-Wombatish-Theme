@@ -1,8 +1,7 @@
 # Wombatish Theme
 
-Theme is optimized for HTML, JS, CSS and SCSS.  
+Theme is optimized for [HTML](https://raw.githubusercontent.com/vlad-saling/blobs/master/vscode/wombatish/html.png), [JS](https://raw.githubusercontent.com/vlad-saling/blobs/master/vscode/wombatish/js.png), [CSS](https://raw.githubusercontent.com/vlad-saling/blobs/master/vscode/wombatish/css.png) and [SCSS](https://raw.githubusercontent.com/vlad-saling/blobs/master/vscode/wombatish/sass.png).  
 
-[All screenshots](https://drive.google.com/folderview?id=0B18MKHmc3zscZ3ZTVEFEckxpTkE&usp=sharing)
 
 Javascript:  
 ![javascript](https://raw.githubusercontent.com/vlad-saling/blobs/master/vscode/wombatish/js.png)
