@@ -10,7 +10,7 @@
 	"name": "Theme-Wombatish",
 	"displayName": "Wombatish Theme",
 	"description": "Wombatish Theme ported from the Wombatish TextMate/Sublime Theme. Based on original Wombat for Vim.",
-	"version": "0.0.8",
+	"version": "0.0.9",
 	"publisher": "vladsaling",
 	"engines": {
 		"vscode": "^0.10.1"
@@ -19,6 +19,9 @@
 		"Themes"
 	],
 	"icon": "icon.svg",
+    "bugs": {
+    "url": "https://github.com/vlad-saling/VSCode-Wombatish-Theme/issues"
+    },
 	"homepage": "https://marketplace.visualstudio.com/items/vladsaling.Theme-Wombatish",
 	"repository": {
 		"type": "git",
