@@ -180,6 +180,18 @@
         
         
         
+         <dict>
+			<key>name</key>
+			<string>Sass variable</string>
+			<key>scope</key>
+			<string>variable.php</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#44BCFC</string>
+			</dict>
+		</dict>
+        
         
         
         
