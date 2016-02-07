@@ -9,8 +9,8 @@
 	},
 	"name": "Theme-Wombatish",
 	"displayName": "Wombatish Theme",
-	"description": "Wombatish Theme ported from the Wombatish TextMate/Sublime Theme. Based on original Wombat for Vim.",
-	"version": "0.0.11",
+	"description": "Wombatish Theme ported from the Wombatish TextMate/Sublime Theme.",
+	"version": "0.0.12",
 	"publisher": "vladsaling",
 	"engines": {
 		"vscode": "^0.10.1"
