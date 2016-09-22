@@ -10,7 +10,7 @@
 	"name": "Theme-Wombatish",
 	"displayName": "Wombatish Theme",
 	"description": "Wombatish Theme ported from the Wombatish TextMate/Sublime Theme.",
-	"version": "0.0.14",
+	"version": "0.0.15",
 	"publisher": "vladsaling",
 	"engines": {
 		"vscode": "^0.12.0"
