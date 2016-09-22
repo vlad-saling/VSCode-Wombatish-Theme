@@ -567,7 +567,7 @@
 			<key>name</key>
 			<string>JS: Source</string>
 			<key>scope</key>
-			<string>text.html.basic, source.js.embedded.html</string>
+			<string>text.html.basic</string>
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
