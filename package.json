@@ -13,7 +13,7 @@
 	"version": "0.0.15",
 	"publisher": "vladsaling",
 	"engines": {
-		"vscode": "^0.12.0"
+		"vscode": "^0.13.0"
 	},
 	"categories": [
 		"Themes"
